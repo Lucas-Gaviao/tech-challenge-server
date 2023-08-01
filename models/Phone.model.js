@@ -4,7 +4,7 @@ const { Schema, model } = require("mongoose");
 const phoneSchema = new Schema(
   {
     id: {
-      type: Number,
+      type: String,
     },
     name: {
       type: String,
