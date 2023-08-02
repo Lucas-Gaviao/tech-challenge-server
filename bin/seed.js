@@ -64,10 +64,11 @@ const phones = [
     name: "Nokia 7.1",
     manufacturer: "Nokia",
     description:
-      "https://res.cloudinary.com/dctxow0kh/image/upload/v1690562062/Nokia_7.1_n8aawa.jpg",
+      "Great phone with an excellent interface. One of the best mid price range phones in the market.",
     color: "black",
     price: 275,
-    imageFileName: "Nokia_7.1.jpg",
+    imageFileName:
+      "https://res.cloudinary.com/dctxow0kh/image/upload/v1690562062/Nokia_7.1_n8aawa.jpg",
     screen: "5,84 inch Full-HD",
     processor: "Octa-core",
     ram: 4,
